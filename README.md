@@ -78,7 +78,7 @@ Constará de la siguientes páginas:
     
     1.4 Una vez en tu repositorio (en el navegador) ve a **Settings -> Github Pages** y en **Source** cambia la opción de **none** a **main**
 
-[Aquí encontrarás una lista de links a recursos que podrían servirte](usefulLinks.md)
+🧩 [Aquí encontrarás una lista de links a recursos que podrían servirte](usefulLinks.md)
 
 ### Y lo más importante. Diviértete y tira de imaginación ###
 
