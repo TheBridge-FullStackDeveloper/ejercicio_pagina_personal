@@ -68,6 +68,12 @@ Constará de la siguientes páginas:
 
 ### Sube a GitHub tu proyecto! (para Fullstack) ###
 
+<br>
+
+🧩 [Guia Git y GitHub](usefulLinks.md)
+
+<br>
+
 1. Crear un repositorio en Github para la página de tu biografía.
 
     1.1 Crear un repositorio para el nuevo proyecto
@@ -78,14 +84,15 @@ Constará de la siguientes páginas:
     
     1.4 Una vez en tu repositorio (en el navegador) ve a **Settings -> Github Pages** y en **Source** cambia la opción de **none** a **main**
 
+<br>
+
 🧩 [Aquí encontrarás una lista de links a recursos que podrían servirte](usefulLinks.md)
+
+
+<br>
 
 ### Y lo más importante. Diviértete y tira de imaginación ###
 
 Cualquier otro extra que se te ocurra será bienvenida :blush: ¡A por ello!
 
 ![img](assets/htmlcss.jpg)
-
-
-
-
