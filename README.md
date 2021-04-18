@@ -86,7 +86,7 @@ Constará de la siguientes páginas:
 
 <br>
 
-🧩 [Aquí encontrarás una lista de links a recursos que podrían servirte](usefulLinks.md)
+🧩 [Aquí encontrarás una lista de links a recursos que podrían servirte](useful-links.md)
 
 
 <br>
