@@ -70,7 +70,7 @@ Constará de la siguientes páginas:
 
 <br>
 
-🧩 [Guia Git y GitHub](usefulLinks.md)
+🧩 [Guia Git y GitHub](git-y-github.md)
 
 <br>
 
