@@ -54,7 +54,7 @@ Con GitHub podemos acceder de manera remota a nuestros repositorios, clonarlos, 
 9. En la terminal abrimos la carpeta donde queremos hacer la copia de nuestro repositorio y lo clonamos con el comando `git clone <url>`
 10. Con el comando `cd <nombre-del-repositorio>` ingresamos a la carpeta.
 11. Abrimos nuestro repositorio en Visual Studio Code y hacemos las modificaciones que deseamos. Una vez terminado guardamos todo. 
-12. Desde la terminal ejecutamos `git status` para visualizar qué ficheros han sufrido cambios y aún no están `commiteados`
+12. Desde la terminal ejecutamos `git status` para visualizar qué ficheros han sufrido cambios y aún no están `commiteados`.
 13. Ejecutamos `git add <nombre-de-los-ficheros-modificados>` o `git add -A` para agregar todos los ficheros al staging area.
 14. Ejecutamos `git commit -m "<tu mensaje>"` para agregar un mensaje al commit que nos permita identificar los cambios realizados en esta versión del fichero.
 15. Ejecutamos `git push` para subir todos los cambios que tenemos en local a nuestro repositorio remoto.
