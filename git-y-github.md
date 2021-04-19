@@ -57,7 +57,7 @@ Con GitHub podemos acceder de manera remota a nuestros repositorios, clonarlos, 
 12. Desde la terminal ejecutamos `git status` para visualizar qué ficheros han sufrido cambios y aún no están `commiteados`
 13. Ejecutamos `git add <nombre-de-los-ficheros-modificados>` o `git add -A` para agregar todos los ficheros al staging area.
 14. Ejecutamos `git commit -m "<tu mensaje>"` para agregar un mensaje al commit que nos permita identificar los cambios realizados en esta versión del fichero.
-15. 
+15. Ejecutamos `git push` para subir todos los cambios que tenemos en local a nuestro repositorio remoto.
 
 <br>
 <br>
