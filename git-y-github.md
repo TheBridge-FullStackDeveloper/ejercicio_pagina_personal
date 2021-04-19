@@ -276,7 +276,9 @@ git log
 - 🥩 [Chuleta](https://classroom.google.com/u/0/w/MTYzNjYxMjM5MzQ5/t/all?hl=es)
 
 - ⏯️ [Taller de Introducción a Git](https://www.youtube.com/watch?v=Mkd8idNUolM)
+
 - 🎮 [Learn Git Branching Game](https://learngitbranching.js.org/)
+
 - 💻 [Sitio oficial de Git](https://git-scm.com/)
 
 <br>
@@ -284,6 +286,11 @@ git log
 
 ---
 ---
+
+<br>
+<br>
+
+![img](assets/git-merge.gif)
 
 
 
