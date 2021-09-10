@@ -93,6 +93,6 @@ Constará de la siguientes páginas:
 
 ### Y lo más importante. Diviértete y tira de imaginación ###
 
-Cualquier otro extra que se te ocurra será bienvenida :blush: ¡A por ello!
+Cualquier otro extra que se te ocurra será bienvenido :blush: ¡A por ello!
 
 ![img](assets/htmlcss.jpg)
